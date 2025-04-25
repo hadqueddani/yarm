@@ -22,3 +22,4 @@ Note: The game is in development, it is normal that it has errors. I'm thinking 
 ![GVKafL](https://github.com/user-attachments/assets/83709c66-d04c-45da-a299-397f9cdb4cc0)
 
 Game powered by Unity, developed by HadQuedDani.
+![logoE](https://github.com/user-attachments/assets/ec5de958-0268-4fb2-96c9-bb83b028edd3)
