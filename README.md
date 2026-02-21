@@ -1,6 +1,6 @@
 ![f21404336](https://github.com/user-attachments/assets/136ec3aa-c105-471a-88ac-4504ef33c80d)
 # ABOUT THIS GAME
-Yet Another Ritmo Mania is a 3D rhythm game designed to offer complete freedom in level creation and execution without restrictions. With a focus on customization and creativity, players can tailor the experience to their own style, adjusting multiple aspects of gameplay to make it unique.
+Yet Another Ritmo Mania is a 3D&2D rhythm game designed to offer complete freedom in level creation and execution without restrictions. With a focus on customization and creativity, players can tailor the experience to their own style, adjusting multiple aspects of gameplay to make it unique.
 
 The game is currently in alpha phase and is being developed by a single creator. This means that, as it is constantly evolving, bugs may appear at any time, as well as frequent changes and improvements to its mechanics and features.
 
