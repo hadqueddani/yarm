@@ -56,7 +56,18 @@ public class NotesManager : MonoBehaviour
     public List<MusicNote> MusicNoteAllNotes = new List<MusicNote>();
 
     [SerializeField]
-    private float _notesSpeed; // PURO
+    private float _notesSpeed; // no sv
+    public float NotesSpeed
+    {
+        get { return _notesSpeed; }
+        set
+        {
+            if (Mathf.Abs(_notesSpeed - value) > 0.001f)
+            {
+                _notesSpeed = value;
+            }
+        }
+    }
 
     [SerializeField]
     private GameObject noteObj;
