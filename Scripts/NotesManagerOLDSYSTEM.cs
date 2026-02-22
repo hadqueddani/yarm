@@ -1,3 +1,7 @@
+/*
+Backup script of the Old Note Creation System.
+Some parts refer to the New System, leaving ambiguity due to support for both the Old and New systems.
+*/
 
 using System;
 using System.Collections;
